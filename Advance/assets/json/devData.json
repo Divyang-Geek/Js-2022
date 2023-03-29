@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Divyang",
+        "age": "25",
+        "designation": "Frontend Developer"
+    },
+    {
+        "name": "Roshan",
+        "age": "22",
+        "designation": "Frontend Developer"
+    },
+    {
+        "name": "Niranjan",
+        "age": "26",
+        "designation": "Frontend Developer"
+    },
+    {
+        "name": "Dhruv",
+        "age": "24",
+        "designation": "SEO Executive"
+    },
+    {
+        "name": "Samarth",
+        "age": "25",
+        "designation": "Backend Developer"
+    }
+]
